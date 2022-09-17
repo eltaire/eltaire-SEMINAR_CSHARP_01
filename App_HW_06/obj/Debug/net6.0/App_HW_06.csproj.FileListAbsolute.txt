@@ -1,0 +1,15 @@
+/Users/user_1/Desktop/Seminar_CSharp_01/App_HW_06/bin/Debug/net6.0/App_HW_06
+/Users/user_1/Desktop/Seminar_CSharp_01/App_HW_06/bin/Debug/net6.0/App_HW_06.deps.json
+/Users/user_1/Desktop/Seminar_CSharp_01/App_HW_06/bin/Debug/net6.0/App_HW_06.runtimeconfig.json
+/Users/user_1/Desktop/Seminar_CSharp_01/App_HW_06/bin/Debug/net6.0/App_HW_06.dll
+/Users/user_1/Desktop/Seminar_CSharp_01/App_HW_06/bin/Debug/net6.0/App_HW_06.pdb
+/Users/user_1/Desktop/Seminar_CSharp_01/App_HW_06/obj/Debug/net6.0/App_HW_06.csproj.AssemblyReference.cache
+/Users/user_1/Desktop/Seminar_CSharp_01/App_HW_06/obj/Debug/net6.0/App_HW_06.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user_1/Desktop/Seminar_CSharp_01/App_HW_06/obj/Debug/net6.0/App_HW_06.AssemblyInfoInputs.cache
+/Users/user_1/Desktop/Seminar_CSharp_01/App_HW_06/obj/Debug/net6.0/App_HW_06.AssemblyInfo.cs
+/Users/user_1/Desktop/Seminar_CSharp_01/App_HW_06/obj/Debug/net6.0/App_HW_06.csproj.CoreCompileInputs.cache
+/Users/user_1/Desktop/Seminar_CSharp_01/App_HW_06/obj/Debug/net6.0/App_HW_06.dll
+/Users/user_1/Desktop/Seminar_CSharp_01/App_HW_06/obj/Debug/net6.0/refint/App_HW_06.dll
+/Users/user_1/Desktop/Seminar_CSharp_01/App_HW_06/obj/Debug/net6.0/App_HW_06.pdb
+/Users/user_1/Desktop/Seminar_CSharp_01/App_HW_06/obj/Debug/net6.0/App_HW_06.genruntimeconfig.cache
+/Users/user_1/Desktop/Seminar_CSharp_01/App_HW_06/obj/Debug/net6.0/ref/App_HW_06.dll
